@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/gamezone/static/css/main.0498a449.chunk.css",
+    "main.js": "/gamezone/static/js/main.376ba242.chunk.js",
+    "main.js.map": "/gamezone/static/js/main.376ba242.chunk.js.map",
+    "runtime-main.js": "/gamezone/static/js/runtime-main.f569e40c.js",
+    "runtime-main.js.map": "/gamezone/static/js/runtime-main.f569e40c.js.map",
+    "static/js/2.0527402b.chunk.js": "/gamezone/static/js/2.0527402b.chunk.js",
+    "static/js/2.0527402b.chunk.js.map": "/gamezone/static/js/2.0527402b.chunk.js.map",
+    "index.html": "/gamezone/index.html",
+    "static/css/main.0498a449.chunk.css.map": "/gamezone/static/css/main.0498a449.chunk.css.map",
+    "static/js/2.0527402b.chunk.js.LICENSE.txt": "/gamezone/static/js/2.0527402b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f569e40c.js",
+    "static/js/2.0527402b.chunk.js",
+    "static/css/main.0498a449.chunk.css",
+    "static/js/main.376ba242.chunk.js"
+  ]
+}
